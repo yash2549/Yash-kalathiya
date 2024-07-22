@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👏</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-- 🔭 I’m currently working on [Juno-Markets](https://www.junomarkets.com/en/)
-
-- 👯 I’m Worked on [Rentop](https://rentop.in/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash2549" alt="yash2549" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
