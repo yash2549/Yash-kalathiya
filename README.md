@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Juno-Markets](https://www.junomarkets.com/en/)
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m Worked on [Rentop](https://rentop.in/)
 
 <h3 align="left">Connect with me:</h3>
